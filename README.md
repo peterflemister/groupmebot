@@ -1,3 +1,5 @@
+Credit for the initial API goes to William Reed(wreed58@gmail.com)
+
 GroupMe Java API
 ==
 The unofficial GroupMe API for Java
@@ -33,6 +35,3 @@ Feel free to add any of these by first forking this repository, create a branch 
 - Maven support
 - Anything else you can think of...
 
-Contact
---
-If you have any questions about using the API or contributing to it contact me on skype with the username wreed12345 or by emailing me at wreed58@gmail.com
